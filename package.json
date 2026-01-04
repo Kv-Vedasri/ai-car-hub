@@ -45,6 +45,10 @@
     "uuid": "^11.1.0",
     "zod": "^3.24.2"
   },
+  "overrides": {
+    "@supabase/supabase-js": "2.49.1",
+    "@supabase/ssr": "0.5.2"
+  },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "eslint": "^9",
